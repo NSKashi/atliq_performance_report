@@ -1,8 +1,8 @@
 # atliq_performance_report
 
-# *Project Overview*
+## *Project Overview*
 
-## *Data Scope*: The project analyzed sales performance and customer data from 2019 to 2021, including detailed figures on net sales, targets, and percentage differences.
+# *Data Scope*: The project analyzed sales performance and customer data from 2019 to 2021, including detailed figures on net sales, targets, and percentage differences.
 
 *Product Analysis*: Examined top and bottom products based on net sales and quantity sold, identifying key revenue drivers and areas of concern.
 
@@ -15,7 +15,7 @@
 *Strategic Focus*: Generated insights to guide strategic decisions, including areas for improvement and opportunities for market growth.
 
 
-# *Key Takeaways*
+## *Key Takeaways*
 
 *Top Growth Drivers*: Certain products, like Chiptec and Integration Stores, experienced remarkable growth, indicating successful market strategies and effective product positioning.
 
@@ -30,7 +30,7 @@
 *Revenue Scaling*: The substantial growth in sales and the effective scaling of operations highlight the company's successful adaptation and execution of its growth strategies.
 
 
-# *Key Learnings*
+## *Key Learnings*
 
 *Data Cleaning*: Utilized Power Query for effective data cleaning.
 
