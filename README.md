@@ -2,6 +2,7 @@
 
 ## *Project Overview*
 
+ ### 
  *Data Scope*: The project analyzed sales performance and customer data from 2019 to 2021, including detailed figures on net sales, targets, and percentage differences.
 
 *Product Analysis*: Examined top and bottom products based on net sales and quantity sold, identifying key revenue drivers and areas of concern.
